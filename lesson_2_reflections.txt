@@ -1,0 +1,9 @@
+> What happens when you initialize a repository? Why do you need to do it?
+
+A hidden .git folder is created which sets up Git to track the files in it.
+
+> How is the staging area different from the working directory and the 
+	repository? What value do you think it offers?
+	
+Files that represent a logical change can be added to the staging area and then
+be committed.
