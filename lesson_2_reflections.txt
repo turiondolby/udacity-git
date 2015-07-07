@@ -7,3 +7,19 @@ A hidden .git folder is created which sets up Git to track the files in it.
 	
 Files that represent a logical change can be added to the staging area and then
 be committed.
+
+> How can you use the staging area to make sure you have one commit per logical 
+	change?
+
+By only adding those files that are related to the logical change.
+
+> What are some situations when branches would be helpful in keeping your
+	history organized? How would branches help?
+	
+New branches for demo features/localizations/alpha/beta versions.
+
+> How do the diagrams help you visualize the branch structure?
+
+It shows which previous commits are available and how new features can
+be added in a  branch.
+
