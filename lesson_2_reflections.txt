@@ -23,3 +23,17 @@ New branches for demo features/localizations/alpha/beta versions.
 It shows which previous commits are available and how new features can
 be added in a  branch.
 
+> What is the result of merging two branches together? Why do we represent it 
+	in the diagram the way we do?
+	
+The features of the branch is incorporated into the merging branch.
+It's a logical way of visualizing it.
+
+> What are the pros and cons of Git’s automatic merging vs. always doing merges
+	manually?
+
++ less work for user
++ no headaches
+
+- time consuming
+- headaches
