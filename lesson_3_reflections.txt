@@ -8,3 +8,16 @@ To aid collaboration.
 	
 Because local changes may be overwritten/lost :/
 
+> Describe the differences between forks, clones, and branches. 
+	When would you use one instead of another?
+	
+forks
+	used on GitHub site to clone someone's repository
+
+clones
+	used to clone repository to local computer
+	
+branches
+	used to add/test new features and have a working version on master branches
+	can merge new branch to master once complete
+
