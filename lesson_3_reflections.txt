@@ -32,3 +32,11 @@ comparison to see what was changed
 	
 I'd use Skype + Dropbox.
 Less unified way of working...more versions floating around on the Desktop lol.
+
+> When would you want to make changes in a separate branch rather than directly
+	in master? What benefits does each approach have?
+
+I'd say mainly for collaboration and personal work respectively.
+You'd always have a working version of the product.
+Merge conflicts are the main issue with directly modifying master.
+
