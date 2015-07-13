@@ -25,4 +25,10 @@ branches
 	stored locally?
 	
 revert to a previous version
-comparison to see what was changed 
+comparison to see what was changed
+
+> How would you collaborate without using Git or GitHub? What would be easier,
+	and what would be harder?
+	
+I'd use Skype + Dropbox.
+Less unified way of working...more versions floating around on the Desktop lol.
