@@ -21,3 +21,8 @@ branches
 	used to add/test new features and have a working version on master branches
 	can merge new branch to master once complete
 
+> What is the benefit of having a copy of the last known state of the remote
+	stored locally?
+	
+revert to a previous version
+comparison to see what was changed 
